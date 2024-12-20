@@ -21,9 +21,12 @@
 
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
-  <a href="in/haripriya-b-v-3b6b10285](https://www.linkedin.com/in/haripriya-b-v-3b6b10285/" target="_blank">
+ 
+  <a href="https://www.linkedin.com/in/haripriya-b-v-3b6b10285" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
+
+
 
 </p>
 
