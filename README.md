@@ -97,38 +97,3 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Motivational Quote">
 </p>
 
-<style>
-  /* Add smooth fade-in effect for image */
-  @keyframes fadeIn {
-    0% { opacity: 0; }
-    100% { opacity: 1; }
-  }
-
-  /* Typing animation effect */
-  @keyframes typing {
-    from { width: 0; }
-    to { width: 100%; }
-  }
-
-  /* Smooth hover effect for icons */
-  img.icon-hover {
-    transition: transform 0.3s ease, box-shadow 0.3s ease;
-  }
-
-  img.icon-hover:hover {
-    transform: scale(1.1);
-    box-shadow: 0 0 15px rgba(0, 0, 0, 0.3);
-  }
-
-  /* Apply fade-in effect to images */
-  .fadeIn {
-    animation: fadeIn 2s ease-in-out;
-  }
-
-  /* Typing animation for header text */
-  .typingAnimation {
-    animation: typing 4s steps(50) infinite;
-    white-space: nowrap;
-    overflow: hidden;
-  }
-</style>
