@@ -1,11 +1,13 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+
 <h1 align="center">
   Hi 👋, I'm Haripriya B V
 </h1>
 <h3 align="center">
   🌟 Passionate Full Stack Developer | 🖥️ Crafting seamless web experiences | 🌐 Always learning
 </h3>
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/3e38d30f04e42688871c3de0a94852b9ec3c3b767e3ec2f9740fb144e462c47f/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323730343431342f73637265656e73686f74732f373436363930332f6d656469612f62303861623537363331366264343538326665663138396634373163643965352e676966">
 
----
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=500&color=F75C7E&center=true&vCenter=true&width=600&height=50&lines=Welcome+to+my+GitHub!+👋;Full+Stack+Developer+%7C+React+Enthusiast;Crafting+Web+Experiences+%7C+Lifelong+Learner" alt="Typing Animation">
