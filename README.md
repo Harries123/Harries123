@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Haripriya B V</h1>
 <h3 align="center">🌟 Passionate Full Stack Developer | 🖥️ Crafting seamless web experiences | 🌐 Always learning</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harries123" alt="harries123" /></a> </p>
-
 - 🌱 I’m currently learning **React,Nodejs,Python,JavaScript**
 
 - 💬 Ask me about **React**
