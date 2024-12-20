@@ -84,13 +84,9 @@
 
 ---
 
-<h3 align="center">🏆 GitHub Trophies:</h3>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=harries123&theme=radical&margin-w=15&margin-h=15" alt="GitHub Trophies">
-</p>
-
----
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Motivational Quote">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=matrix" alt="Motivational Quote 3">
 </p>
+
+
