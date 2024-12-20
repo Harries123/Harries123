@@ -1,5 +1,3 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
-
 <h1 align="center">
   Hi 👋, I'm Haripriya B V
 </h1>
@@ -96,4 +94,3 @@
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Motivational Quote">
 </p>
-
